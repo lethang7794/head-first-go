@@ -1,0 +1,4 @@
+# github.com/lethang7794/head-first-go/datafile v0.0.0-20220706141638-93664240c504 => ../datafile
+## explicit; go 1.18
+github.com/lethang7794/head-first-go/datafile
+# github.com/lethang7794/head-first-go/datafile => ../datafile
